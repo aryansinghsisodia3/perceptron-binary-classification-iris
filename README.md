@@ -1,13 +1,13 @@
 # Perceptron for Binary Classification – Iris Dataset
 
 ## Project Overview
-# perceptron-binary-classification-iris/
-# │
-# ├── README.md
-# ├── perceptron_iris_binary.ipynb
-# └── results/
-#       ├── confusion_matrix.png
-#       └── decision_boundary.png
+           perceptron-binary-classification-iris/
+           │
+           ├── README.md
+           ├── perceptron_iris_binary.ipynb
+           └── results/
+                 ├── confusion_matrix.png
+                 └── decision_boundary.png
 
 
 ## 📌 Overview
@@ -65,5 +65,6 @@ jupyter notebook perceptron_iris_binary.ipynb
 ---
 
 Author: Aryan Singh Sisodia
+
 
 
