@@ -1,5 +1,15 @@
 # Perceptron for Binary Classification – Iris Dataset
 
+## Project Overview
+perceptron-binary-classification-iris/
+│
+├── README.md
+├── perceptron_iris_binary.ipynb
+└── results/
+      ├── confusion_matrix.png
+      └── decision_boundary.png
+
+
 ## 📌 Overview
 
 This project demonstrates the implementation of the Perceptron algorithm for binary classification using the Iris dataset. The objective is to classify Setosa vs Versicolor using linear decision boundaries.
@@ -55,3 +65,4 @@ jupyter notebook perceptron_iris_binary.ipynb
 ---
 
 Author: Aryan Singh Sisodia
+
