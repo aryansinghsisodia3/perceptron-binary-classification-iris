@@ -42,6 +42,15 @@ This project demonstrates the implementation of the Perceptron algorithm for bin
 * Model successfully separates linearly separable classes.
 * Visualized decision boundary confirms linear classification.
 
+### 📊 Confusion Matrix
+![Confusion Matrix](result/confusion_matrix.png)
+
+### 📈 Iris Dataset Visualisation
+![Iris Dataset Visualisation](result/iris-dataset-visualization.png)
+
+### 📈 ROC Curve
+![ROC Curve+](result/roc-curve.png)
+
 ## 📦 Requirements
 
 ```bash
@@ -65,6 +74,7 @@ jupyter notebook perceptron_iris_binary.ipynb
 ---
 
 Author: Aryan Singh Sisodia
+
 
 
 
